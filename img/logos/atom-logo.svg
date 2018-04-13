@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg2"
+   height="131"
+   width="131"
+   version="1.1">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <path
+     id="path4"
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-opacity:1"
+     d="m 103.87493,34.82973 c 2.11268,-10.752718 0.93121,-18.913295 -4.062505,-22.15625 -1.664571,-1.080985 -3.66023,-1.554019 -5.90625,-1.46875 -12.128506,0.46045 -31.698321,17.160074 -47.6875,41.78125 -18.950138,29.180653 -25.684504,58.42545 -15.03125,65.34375 5.056946,3.28402 13.115147,0.95604 22.21875,-5.53125" />
+  <path
+     id="path6"
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-opacity:1"
+     d="m 113.59368,82.54848 c 8.99437,-3.489189 14.52504,-8.265012 14.8125,-13.75 0.6648,-12.685141 -26.94124,-24.429026 -61.687505,-26.25 -3.257461,-0.170716 -6.460588,-0.260544 -9.59375,-0.25 C 26.837691,42.400407 3.1961505,50.708821 2.5936754,62.20473 2.3067834,67.678955 7.294159,72.987113 15.843675,77.39223" />
+  <path
+     id="path8"
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-opacity:1"
+     d="M 56.906175,15.92348 C 50.7523,10.817589 44.980727,8.0756974 40.343675,8.4234804 c -1.23461,0.0926 -2.376432,0.396859 -3.4375,0.9375 -11.318054,5.7668366 -7.702368,35.5921226 8.09375,66.5937496 15.796118,31.00163 37.775696,51.45434 49.09375,45.6875 10.884405,-5.54588 7.946665,-33.337754 -6.34375,-63.03125" />
+  <path
+     id="path10"
+     style="fill:#000000;fill-opacity:1"
+     d="m 73.406175,66.39246 a 7.5,7.5 0 0 1 -15,0 7.5,7.5 0 1 1 15,0 z" />
+</svg>
