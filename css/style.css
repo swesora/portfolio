@@ -19,7 +19,7 @@ a {
 
 img {
   border-style: none;
-  width:100%;
+  width:auto;
   max-width:400px;
   max-height: 500px;
   width: auto;
