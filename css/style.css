@@ -19,9 +19,10 @@ a {
 
 img {
   border-style: none;
-  max-width:400px;
+  max-width: 400px;
   max-height: 500px;
   width: auto;
+
 }
 
 svg:not(:root) {
@@ -73,6 +74,7 @@ nav {
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
   font-size: .8rem;
   z-index: 100;
+  font-weight: bold;
 }
 
 nav .container {
@@ -81,7 +83,7 @@ nav .container {
 
 nav a {
   flex: 1;
-  line-height: 35px;
+  line-height: 50px;
   text-align: center;
   color: #666;
   text-decoration: none;
@@ -108,10 +110,12 @@ h2 {
 
 h3 {
   font-size: 1.45rem;
+  text-shadow: 0.5px 0.5px 0.5px #474747, 4px -25px 20px rgba(206,89,55,0);
 }
 
 h4 {
-  font-size: 1.30rem;
+  font-size: 0.60rem;
+  text-shadow: 0.5px 0.5px 0.5px #474747, 4px -25px 20px rgba(206,89,55,0);
 }
 
 h5 {
@@ -133,7 +137,7 @@ h6 {
     font-size: 1.60rem;
   }
   h4 {
-    font-size: 1.40rem;
+    font-size: 1.00rem;
   }
   h5 {
     font-size: 1.20rem;
@@ -154,7 +158,7 @@ h6 {
     font-size: 1.75rem;
   }
   h4 {
-    font-size: 1.50rem;
+    font-size: 1.20rem;
   }
   h5 {
     font-size: 1.25rem;
@@ -179,7 +183,7 @@ main section:not(:last-child) {
 
 header {
   position: relative;
-  background-image: url("../img/code-bg.jpg");
+  background-image: url("img\code-bg.jpg");
   background-position: center center;
   background-size: cover;
 }
@@ -306,6 +310,7 @@ footer .row .col {
   flex: 1;
   padding-left: 1rem;
   padding-right: 1rem;
+  width: auto;
 }
 
 @media (min-width: 840px) {
