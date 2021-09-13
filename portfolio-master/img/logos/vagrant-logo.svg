@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   height="60"
+   width="60"
+   id="svg32"
+   version="1.1"
+   viewBox="0 0 60 60.000002">
+  <metadata
+     id="metadata36">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Asset 1</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#1159cc;}.cls-2{fill:#127eff;}</style>
+  </defs>
+  <title
+     id="title6">Asset 1</title>
+  <g
+     transform="translate(0,-0.01)"
+     data-name="Layer 2"
+     id="Layer_2">
+    <g
+       id="Logo">
+      <polygon
+         transform="translate(0.985)"
+         style="fill:#1159cc"
+         id="polygon24"
+         points="40.32,53.49 58.03,10.12 58.03,4.63 44.84,12.3 44.84,16.94 34.29,39.7 29.01,43.34 29.01,60.01 "
+         class="cls-1" />
+      <polygon
+         transform="translate(0.985)"
+         style="fill:#1159cc"
+         id="polygon26"
+         points="29.01,38.09 29.01,31.47 21.1,13 21.1,7.78 21.05,7.76 13.19,12.3 13.19,16.94 23.74,40.7 "
+         class="cls-1" />
+      <polygon
+         transform="translate(0.985)"
+         style="fill:#127eff"
+         id="polygon28"
+         points="29.01,31.47 29.01,37.64 23.74,40.7 13.19,16.94 13.19,12.29 21.11,7.74 7.91,0.01 0,4.63 0,10.29 17.81,53.54 29.01,60.01 29.01,43.76 34.29,40.7 34.22,40.66 44.84,16.94 44.84,12.3 44.84,12.29 58.03,4.63 50.12,0.01 36.94,7.73 36.93,7.73 36.93,7.74 36.93,13 "
+         class="cls-2" />
+    </g>
+  </g>
+</svg>
